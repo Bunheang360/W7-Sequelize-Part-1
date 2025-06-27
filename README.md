@@ -1,0 +1,1 @@
+# W7-Sequelize-Part-1
